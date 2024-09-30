@@ -1,0 +1,56 @@
+body {
+    background-color: white;
+}
+
+h3 {
+    color: darkslateblue;
+}
+
+li {
+    font-weight: bolder;
+    columns: blue;
+}
+
+button {
+    height: 35px;
+    width: 125px;
+    background-color: darkblue;
+    color: white;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.logo {
+    text-align: center;
+}
+
+.logo.img {
+    height: 180px;
+    width: 200pxpx;
+}
+
+.info span {
+    font-weight: bold;
+    font-size: large;
+    color: blue;
+}
+
+div{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+.listaNotas{
+    text-align: center;
+}
+
+li{
+    text-align: center;
+    font-size: bold;
+    font-weight: lighter;
+}
